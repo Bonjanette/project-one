@@ -1,5 +1,6 @@
 .DS_Store
 config.py
+Resources/.nyse_prices-split-adjusted.csv.icloud
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
