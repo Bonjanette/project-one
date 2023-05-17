@@ -5,7 +5,8 @@ Resources/.nyse_prices-split-adjusted.csv.icloud
 __pycache__/
 *.py[cod]
 *$py.class
-
+config.py
+Resources/.nyse_prices-split-adjusted.csv.icloud
 # C extensions
 *.so
 
