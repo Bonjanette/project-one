@@ -12,4 +12,5 @@ Our goal with this project was to analyze how public news coverage affects the s
 We used these data sets to analyze market data to find dates of significant price movement.
 We utilized the NYT Archive API to pull articles from specified date ranges.
 
-As each member focused on different aspects of this project, there are three Jupyter notebooks containing relevant code.
+As each member focused on different aspects of this project, there are three Jupyter notebooks containing relevant code. Sentiment_Analysis.ipynb located in Branch Brian-feature contains code exploring the S&P 500.  Sentiment_Analysis_Bonjanette.ipynb in Branch Bonjanette-feature contains code exploring market sectors and related headline data pulled from the NYSE API. Sentiment_Analysis.ipynb in Branch Matt-branch contains code exploring individual stock movements.
+
