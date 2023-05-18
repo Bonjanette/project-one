@@ -8,4 +8,8 @@ https://www.kaggle.comhttps://www.kaggle.com/datasets/dgawlik/nyse?select=securi
 https://developer.nytimS&P 500 Historical Data | Kagglees.com/docs/articlesearch-product/1/overview
 https://developer.nytimes.com/docs/archive-product/1/overview
 
-Our goal 
+Our goal with this project was to analyze how public news coverage affects the stock market.
+We used these data sets to analyze market data to find dates of significant price movement.
+We utilized the NYT Archive API to pull articles from specified date ranges.
+
+As each member focused on different aspects of this project, there are three Jupyter notebooks containing relevant code.
