@@ -1,5 +1,5 @@
 # Project-One
-## New Coverage Analysis - Write Up
+## News Coverage Analysis - Write Up
 ### Team members: Brian Silfer, Bonjanette Koontz, Matthew Johnson
 
 Sources for data for this project are:
